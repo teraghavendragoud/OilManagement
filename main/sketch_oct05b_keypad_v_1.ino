@@ -3,8 +3,6 @@
 #include <WiFiServer.h>
 #include <WiFiUdp.h>
 
-//#include <SD.h>
-
 #include <SPI.h>
 
 #include <EEPROM.h>
